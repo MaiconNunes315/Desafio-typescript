@@ -1,0 +1,28 @@
+#main{
+    position:relative;
+    height:300px;
+    overflow:hidden;
+    width:48%;    
+    
+}
+
+#main h2{
+    font-weight:bold;
+}
+
+#avaliate{
+position:absolute;
+top:5px;
+border-radius:50%;
+border-width:2px;
+border-color:orange;
+left:2px;
+padding:3px;
+background-color:black;
+color:white;
+}
+
+#search{
+    position:relative;
+    font-weight:bold;
+}
