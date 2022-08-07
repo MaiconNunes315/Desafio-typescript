@@ -7,11 +7,11 @@
 https://github.com/MaiconNunes315/Desafio-typescript.git
 ```
 
-## A pasta desafio4\tmdb-api aonde estão os arquivos em react do desafio 4 usando a api do TMDB. Dê um npm intall para instalar todas as dependências usadas nesse projeto.
+## A pasta desafio5\tmdb-api aonde estão os arquivos em react do desafio 4 usando a api do TMDB. Dê um npm intall para instalar todas as dependências usadas nesse projeto.
 
 ## Instalação
 
-cd desafio4\tmbb-api
+cd desafio5\tmbb-api
 
 npm install
 
